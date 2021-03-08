@@ -4,10 +4,10 @@
 
 Submitted by: **Maxwell Lo**
 
-Time spent: **2.5** hours spent in total
+Time spent: **5** hours spent in total
 
-Links to project: 
-Code: https://glitch.com/edit/#!/sprinkle-field-angelfish
+Links to project: <br>
+Code: https://glitch.com/edit/#!/sprinkle-field-angelfish <br>
 Site: https://sprinkle-field-angelfish.glitch.me
 
 ## Required Functionality
@@ -42,9 +42,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="https://github.com/lo-maxwell/Light_Sound_Memory_Game/blob/main/Screen%20Recording%202021-03-07%20at%2011.22.42%20PM.gif?raw=true
-"><br>
-
+<img src="https://github.com/lo-maxwell/Light_Sound_Memory_Game/blob/main/Screen%20Recording%202021-03-07%20at%2011.22.42%20PM.gif?raw=true" width=800><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
