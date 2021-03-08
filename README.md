@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+Various StackOverflow pages on setInterval/setTimeout, dynamically changing css text, javascript.info, w3Schools pages on html, css, javascript.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
@@ -55,7 +55,6 @@ Here's a walkthrough of implemented user stories:
 [YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
 
 
