@@ -6,7 +6,9 @@ Submitted by: **Maxwell Lo**
 
 Time spent: **2.5** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/sprinkle-field-angelfish)
+Links to project: 
+Code: https://glitch.com/edit/#!/sprinkle-field-angelfish
+Site: https://sprinkle-field-angelfish.glitch.me
 
 ## Required Functionality
 
@@ -22,24 +24,26 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] More than 4 functional game buttons
+* [x] Playback speeds up on each turn
+* [x] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+* [x] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [x] Rolling high score tracker
+- [x] Volume slider
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+<img src="https://github.com/lo-maxwell/Light_Sound_Memory_Game/blob/main/Screen%20Recording%202021-03-07%20at%2011.22.42%20PM.gif?raw=true
+"><br>
 
 
 ## Reflection Questions

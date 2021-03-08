@@ -15,9 +15,17 @@
   </head>  
   <body>
     <h1>Memory Game</h1>
-    
     <p>
-      Press buttons in the same order as the original pattern to win.
+      <p id = "p1">
+        <!-- text filled in dynamically, contains rules and high score information -->
+      </p>
+      <div class="slidecontainer">
+        <img src = "https://cdn.glitch.com/426e7d0a-f0e2-4207-8ff9-d34e4085a91f%2Fsound-off-icon-40944.png?v=1615183487030" style="width:20px;height:20px;">
+        <input id = "volumeSlider" type="range" min="1" max="100" value="50" class="slider">
+      </div>
+      <p id = "p2"> 
+        <!-- text filled in dynamically, records time remaining to guess -->
+      </p>
       <button id="startBtn" onclick="startGame()">Start</button>
       <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
     </p>
@@ -27,6 +35,8 @@
       <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>
       <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
       <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+      <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"></button>
+      <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"></button>
     </div>
 
     <!-- include the Glitch button to show what the webpage is about and
