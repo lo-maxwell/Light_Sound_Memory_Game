@@ -69,7 +69,7 @@ If I had more time to work on this project, I would probably try to get the sequ
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Maxwell Lo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
